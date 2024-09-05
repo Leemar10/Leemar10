@@ -6,5 +6,4 @@
 - 😄 Pronouns: ...He\Him
 - ⚡ Fun fact: ...I almost joined Medical School...
 
-
-
+![saitama-8211499_1280](https://github.com/user-attachments/assets/9d8bff1a-b56a-49cd-bdf6-76b61f2715b2)
