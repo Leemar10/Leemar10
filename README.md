@@ -20,4 +20,4 @@ Python, SQL, MySQL, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Helium
 Deep Learning, AI, and advanced Data Structures & Algorithms
 
 ## Contact
-rameelsohail2004@gmail.com | LinkedIn
+rameelsohail2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameel-sohail-199487334/)
